@@ -24,7 +24,7 @@ class Square : public QGraphicsRectItem
 
         void setCost(int co);
         void setParent(Square* par);
-        
+
         void setState(State st);
 
     private:
