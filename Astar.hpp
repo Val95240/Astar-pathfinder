@@ -6,7 +6,7 @@
 #include <cstdlib>
 #include <vector>
 
-#include "Square.h"
+#include "Square.hpp"
 
 using vector_pair = std::pair<std::vector<Square*>, std::vector<Square*>>;
 

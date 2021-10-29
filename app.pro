@@ -5,9 +5,9 @@ QT += widgets
 
 TARGET = main
 
-HEADERS += MainWindow.h
-HEADERS += Square.h
-HEADERS += Astar.h
+HEADERS += MainWindow.hpp
+HEADERS += Square.hpp
+HEADERS += Astar.hpp
 
 SOURCES += MainWindow.cpp
 SOURCES += Square.cpp

@@ -1,4 +1,4 @@
-#include "Astar.h"
+#include "Astar.hpp"
 
 
 vector_pair astar(int width, int height, Square* grid[],

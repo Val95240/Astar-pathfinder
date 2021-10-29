@@ -1,4 +1,4 @@
-#include "Square.h"
+#include "Square.hpp"
 
 
 Square::Square(int x, int y, int width, int height, QColor col) :

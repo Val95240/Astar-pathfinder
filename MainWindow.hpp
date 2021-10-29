@@ -11,8 +11,8 @@
 #include <QApplication>
 #include <QtWidgets>
 
-#include "Square.h"
-#include "Astar.h"
+#include "Square.hpp"
+#include "Astar.hpp"
 
 
 const int HEIGHT = 30;
