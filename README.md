@@ -3,6 +3,7 @@
 
 This repository contains a basic C++ implementation of the [A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) that finds an optimal path in a graph using a distance heuristic.
 
+![](imgs/Astar.png)
 
 ## Installation
 
